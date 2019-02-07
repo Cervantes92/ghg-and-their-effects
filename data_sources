@@ -1,8 +1,11 @@
-Monthly Mean Temperature Anomalies in Degrees Celsius relative:
+Monthly/Annual Mean Temperature Anomalies in Degrees Celsius relative:
 https://datahub.io/core/global-temp\
 
 CO2 PPM:
 https://datahub.io/core/co2-ppm
 
-Global Radiative Forcing AGGI Table:
+Global Radiative Forcing AGGI Table:*
 https://www.esrl.noaa.gov/gmd/aggi/aggi.html
+
+* annual change (in %) is calculated relative to 1990
+,"i.e., %changeYr2-Yr1 = 100*(RFYr2-RFYr1)/RF1990"
