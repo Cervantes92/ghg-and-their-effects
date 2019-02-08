@@ -9,3 +9,6 @@ https://www.esrl.noaa.gov/gmd/aggi/aggi.html
 
 * annual change (in %) is calculated relative to 1990
 ,"i.e., %changeYr2-Yr1 = 100*(RFYr2-RFYr1)/RF1990"
+
+Annual Global mean temperature anomalies relative to mean temperature 1951-1980:
+https://data.giss.nasa.gov/gistemp/
